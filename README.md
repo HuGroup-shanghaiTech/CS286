@@ -17,14 +17,18 @@ In this project, students are expected to implement the Transformer or similar n
 
 
 ## MLIP methods:
-[DeepMD]: https://docs.deepmodeling.com/projects/deepmd/en/master/index.html
-[Nequip]: https://github.com/mir-group/nequip
-[Equiformer]: https://github.com/atomicarchitects/equiformer
+[DeepMD](https://docs.deepmodeling.com/projects/deepmd/en/master/index.html)  
+
+[Nequip](https://github.com/mir-group/nequip)  
+
+[Equiformer](https://github.com/atomicarchitects/equiformer)
 
 ## References
 
-[1] Kang, P.-L.; Shang, C.; Liu, Z.-P. Large-Scale Atomic Simulation via Machine Learning Potentials Constructed by Global Potential Energy Surface Exploration. Acc. Chem. Res. 2020, 53 (10), 2119–2129.
-[2] Batzner, S.; Musaelian, A.; Sun, L.; Geiger, M.; Mailoa, J. P.; Kornbluth, M.; Molinari, N.; Smidt, T. E.; Kozinsky, B. E(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials. Nat Commun 2022, 13 (1), 2453.
+[1] Kang, P.-L.; Shang, C.; Liu, Z.-P. Large-Scale Atomic Simulation via Machine Learning Potentials Constructed by Global Potential Energy Surface Exploration. Acc. Chem. Res. 2020, 53 (10), 2119–2129.   
+
+[2] Batzner, S.; Musaelian, A.; Sun, L.; Geiger, M.; Mailoa, J. P.; Kornbluth, M.; Molinari, N.; Smidt, T. E.; Kozinsky, B. E(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials. Nat Commun 2022, 13 (1), 2453.    
+
 [3] Zhang, Y.; Xia, J.; Jiang, B. Physically Motivated Recursively Embedded Atom Neural Networks: Incorporating Local Completeness and Nonlocality. Phys. Rev. Lett. 2021, 127 (15), 156002.
 
 
