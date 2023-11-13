@@ -13,7 +13,18 @@ In this project, students are expected to implement the Transformer or similar n
 
 1.	Learning how the atomic data is translated for ML model training.
 2.	Understanding mainstream MLIP models.
-3.	Evaluating the Transformer performance and tring to improve the current MLIP models.    
+3.	Evaluating the Transformer performance and tring to improve the current MLIP models.
+
+## Data
+All the training data were placed under the Train_data      
+The focus of the project is the prediction of CO adsorption energy on Pt(111) surfaces.       
+The training set includes systems with different numbers of carbon monoxide molecules adsorbed on Pt surfaces of various sizes.       
+Each system is placed in a corresponding folder, with the folders named as follows: Fcc(111)_symmetry_CxOyPtz atom count.     
+
+Inside each folder, there is an xyz file containing different structures of this systems, including the size of the unit cell, coordinates of each atom, total energy of the system, and the forces on each atom.
+
+This xyz file can be visualized using [Ovito](https://www.ovito.org/about/) 
+
 
 
 ## MLIP methods:
