@@ -1,6 +1,6 @@
 # CS286
 
-## Backgroung
+## Background
 
 In the realm of surface reaction studies, quantum chemistry calculations, notably density functional theory (DFT), have revolutionized our approach since the 1990s. Serving as a cornerstone in catalysis research, DFT can give molecular-level insights that are often hard to obtain by experimental means. However, the scalability of DFT calculations has reached a plateau, as the simulations of larger reaction systems (exceeding 300 atoms) or extend our time scale to the nanosecond range, the computational demands escalate exponentially. 
 
